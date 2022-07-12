@@ -17,15 +17,31 @@
 
 2. Number of times students debugging code (TD)
 
+    1. The related code is in the folder `copy_detail.py`
+    
+    2. The related code is in the folder `copy_detaildetail.py`
+    
+    3. The related code is in the folder `copy_detail_end.py`
 
 3. Length of time away from the page (TM)
 
+    1. The related code is in the folder `copy_detail.py`
+    
+    2. The related code is in the folder `copy_detail.py`
+    
+    3. The related code is in the folder `copy_detail_end.py`
 
 4. Number of times students left the page (LP)
 
+    1. The related code is in the folder `copy_detail.py`
+    
+    2. The related code is in the folder `copy_detail.py`
+    
+    3. The related code is in the folder `copy_detail_end.py`
 
 5. Number of suspicious pastes (SP)
-The related code is in the folder `realtimeDetect.py`
+
+    The related code is in the folder `realtimeDetect.py`
 
 ### 2.excel
 
@@ -33,13 +49,20 @@ The related code is in the folder `realtimeDetect.py`
 
 
 2. Number of times students debugging code (TD)
-
+    
+    1. The related data is in the folder `xxxx_detail.xlsx`
+    2. 1. The related data is in the folder `xxxx_detail.xlsx`
 
 3. Length of time away from the page (TM)
-
+    
+    1. The related data is in the folder `xxxx_detail.xlsx`
+    2. The related data is in the folder `xxxx_detail_end.xlsx`
 
 4. Number of times students left the page (LP)
-
+    
+    1. The related data is in the folder `xxxx_detail.xlsx`
+    2. The related data is in the folder `xxxx_detail_end.xlsx`
 
 5. Number of suspicious pastes (SP)
-The related data is in the folder `xxxx_abnormalpaste.xlsx`
+
+    The related data is in the folder `xxxx_abnormalpaste.xlsx`
