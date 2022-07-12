@@ -2,8 +2,8 @@ import MySQLdb
 import pandas as pd
 from datetime import datetime
 
-db1 = MySQLdb.connect("202.4.155.100", "root", "buctacm4726", "record", charset='utf8')
-db2 = MySQLdb.connect("202.4.155.100", "root", "buctacm4726", "jol", charset='utf8')
+db1 = MySQLdb.connect("202.4.155.100", "root", "*", "*", charset='utf8')
+db2 = MySQLdb.connect("202.4.155.100", "root", "*", "*", charset='utf8')
 
 cursor1 = db1.cursor()
 cursor2 = db2.cursor()
