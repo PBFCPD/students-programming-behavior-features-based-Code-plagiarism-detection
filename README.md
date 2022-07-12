@@ -51,16 +51,19 @@
 2. Number of times students debugging code (TD)
     
     1. The related data is in the folder `xxxx_detail.xlsx`
+    
     2. 1. The related data is in the folder `xxxx_detail.xlsx`
 
 3. Length of time away from the page (TM)
     
     1. The related data is in the folder `xxxx_detail.xlsx`
+    
     2. The related data is in the folder `xxxx_detail_end.xlsx`
 
 4. Number of times students left the page (LP)
     
     1. The related data is in the folder `xxxx_detail.xlsx`
+    
     2. The related data is in the folder `xxxx_detail_end.xlsx`
 
 5. Number of suspicious pastes (SP)
