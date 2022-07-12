@@ -52,7 +52,7 @@
     
     1. The related data is in the file `xxxx_detail.xlsx`
     
-    2. 1. The related data is in the file `xxxx_detail.xlsx`
+    2. The related data is in the file `xxxx_detail.xlsx`
 
 3. Length of time away from the page (TM)
     
