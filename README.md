@@ -17,31 +17,31 @@
 
 2. Number of times students debugging code (TD)
 
-    1. The related code is in the folder `copy_detail.py`
+    1. The related code is in the file `copy_detail.py`
     
-    2. The related code is in the folder `copy_detaildetail.py`
+    2. The related code is in the file `copy_detaildetail.py`
     
-    3. The related code is in the folder `copy_detail_end.py`
+    3. The related code is in the file `copy_detail_end.py`
 
 3. Length of time away from the page (TM)
 
-    1. The related code is in the folder `copy_detail.py`
+    1. The related code is in the file `copy_detail.py`
     
-    2. The related code is in the folder `copy_detail.py`
+    2. The related code is in the file `copy_detail.py`
     
-    3. The related code is in the folder `copy_detail_end.py`
+    3. The related code is in the file `copy_detail_end.py`
 
 4. Number of times students left the page (LP)
 
-    1. The related code is in the folder `copy_detail.py`
+    1. The related code is in the file `copy_detail.py`
     
-    2. The related code is in the folder `copy_detail.py`
+    2. The related code is in the file `copy_detail.py`
     
-    3. The related code is in the folder `copy_detail_end.py`
+    3. The related code is in the file `copy_detail_end.py`
 
 5. Number of suspicious pastes (SP)
 
-    The related code is in the folder `realtimeDetect.py`
+    1. The related code is in the file `realtimeDetect.py`
 
 ### 2.excel
 
@@ -50,22 +50,22 @@
 
 2. Number of times students debugging code (TD)
     
-    1. The related data is in the folder `xxxx_detail.xlsx`
+    1. The related data is in the file `xxxx_detail.xlsx`
     
-    2. 1. The related data is in the folder `xxxx_detail.xlsx`
+    2. 1. The related data is in the file `xxxx_detail.xlsx`
 
 3. Length of time away from the page (TM)
     
-    1. The related data is in the folder `xxxx_detail.xlsx`
+    1. The related data is in the file `xxxx_detail.xlsx`
     
-    2. The related data is in the folder `xxxx_detail_end.xlsx`
+    2. The related data is in the file `xxxx_detail_end.xlsx`
 
 4. Number of times students left the page (LP)
     
-    1. The related data is in the folder `xxxx_detail.xlsx`
+    1. The related data is in the file `xxxx_detail.xlsx`
     
-    2. The related data is in the folder `xxxx_detail_end.xlsx`
+    2. The related data is in the file `xxxx_detail_end.xlsx`
 
 5. Number of suspicious pastes (SP)
 
-    The related data is in the folder `xxxx_abnormalpaste.xlsx`
+    1. The related data is in the file `xxxx_abnormalpaste.xlsx`
