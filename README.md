@@ -11,8 +11,35 @@
 
 ## How To Use
 
-#### 1. copy_paste
-##### Data collection and processing
+### 1. copy_paste
+1. Time spent writing code (TS)
 
-#### 2.excel
-##### Data set and data processing
+
+2. Number of times students debugging code (TD)
+
+
+3. Length of time away from the page (TM)
+
+
+4. Number of times students left the page (LP)
+
+
+5. Number of suspicious pastes (SP)
+The related code is in the folder `realtimeDetect.py`
+
+### 2.excel
+
+1. Time spent writing code (TS)
+
+
+2. Number of times students debugging code (TD)
+
+
+3. Length of time away from the page (TM)
+
+
+4. Number of times students left the page (LP)
+
+
+5. Number of suspicious pastes (SP)
+The related data is in the folder `xxxx_abnormalpaste.xlsx`
