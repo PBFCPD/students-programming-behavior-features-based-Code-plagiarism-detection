@@ -3,10 +3,14 @@
 > Applying Coding Behavior Features to Student Plagiarism Detection on Programming Assignments
 
 ## 1. Introduction
-This project corresponds to the experiments and results in the paper: `Applying Coding Behavior Features to Student Plagiarism Detection on Programming Assignments`
+* This project corresponds to the experiments and results in the paper: `Applying Coding Behavior Features to Student Plagiarism Detection on Programming Assignments`
 
-The dataset is in the folder `Excel`.
-The related code is in the folder `copy_paste`.
+* The dataset is in the folder `Excel`.
+
+* The related code is in the folder `copy_paste`.
+
+## How To Use
+
 #### 1. copy_paste
 ##### Data collection and processing
 
