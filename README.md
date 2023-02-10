@@ -117,4 +117,3 @@
 
     2. The related data is in the file `xxxx_total.xlsx`
     
-    3. The related data is in the file `relation.xlsx`
